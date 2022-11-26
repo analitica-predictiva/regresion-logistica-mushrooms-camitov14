@@ -172,7 +172,4 @@ def pregunta_04():
 
     # Retorne la matriz de confusion de entrenamiento y prueba
     return cfm_train, cfm_test
-pregunta_01()
-pregunta_02()
-pregunta_03()
-pregunta_04()
+
